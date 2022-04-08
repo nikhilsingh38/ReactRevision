@@ -1,0 +1,222 @@
+[
+  {
+    "id": "014548d9-de2d-475e-aa4e-a02e57fa824a",
+    "name": "Leon Grill",
+    "type": "Arabian Beverages Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mis9tlspu8csdalvgx7h",
+    "cash": false,
+    "card": true,
+    "upi": true,
+    "rating": 3.0,
+    "price_for_two": 100
+  },
+  {
+    "id": "1b2258a4-5295-4704-822e-cd243f7644a0",
+    "name": "Edesia by Freshmenu",
+    "type": "American",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dqnzpwannyqvhx0hylcf",
+    "cash": true,
+    "card": false,
+    "upi": true,
+    "rating": 2.8,
+    "price_for_two": 500
+  },
+  {
+    "id": "f8270e32-d6a8-402b-b104-39922a8fdfcd",
+    "name": "Aligarh House",
+    "type": "Desserts Bakery Sweets",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nwwkas3zauseelikzvnb",
+    "cash": false,
+    "card": true,
+    "upi": true,
+    "rating": 2.7,
+    "price_for_two": 300
+  },
+  {
+    "id": "73334697-e27d-42dc-bfd3-0867414b83b4",
+    "name": "Punjabi Rasoi",
+    "type": "Biryani Mughlai Kebabs Indian Juices Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ou8vlworardbmd0mskcu",
+    "cash": true,
+    "card": true,
+    "upi": false,
+    "rating": 1.7,
+    "price_for_two": 100
+  },
+  {
+    "id": "f8c8faf5-5370-4c87-9a04-6bbf34f7b898",
+    "name": "Meghana Foods",
+    "type": "North Indian",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e0vvulfbahjxjz6k4uwi",
+    "cash": true,
+    "card": false,
+    "upi": false,
+    "rating": 4.2,
+    "price_for_two": 400
+  },
+  {
+    "id": "d2b8cdb3-8c13-417b-a29f-31bb62e4ff92",
+    "name": "Leon Grill",
+    "type": "Biryani Mughlai Kebabs",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mis9tlspu8csdalvgx7h",
+    "cash": false,
+    "card": true,
+    "upi": false,
+    "rating": 3.5,
+    "price_for_two": 100
+  },
+  {
+    "id": "2ea758e4-fbde-4ed1-8017-d89b80803042",
+    "name": "Edesia by Freshmenu",
+    "type": "Hotel Savitha Family Restaurant",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dqnzpwannyqvhx0hylcf",
+    "cash": false,
+    "card": false,
+    "upi": true,
+    "rating": 3.9,
+    "price_for_two": 100
+  },
+  {
+    "id": "0c4d6017-c39b-4e7d-acc4-b786207fdb22",
+    "name": "Aligarh House",
+    "type": "Arabian Beverages Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ulo2uxbiamdkrtwd7pz0",
+    "cash": true,
+    "card": true,
+    "upi": true,
+    "rating": 3.8,
+    "price_for_two": 200
+  },
+  {
+    "id": "90304962-3ace-49f7-91af-feea942d7c8c",
+    "name": "Punjabi Rasoi",
+    "type": "American",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ou8vlworardbmd0mskcu",
+    "cash": true,
+    "card": true,
+    "upi": true,
+    "rating": 4.2,
+    "price_for_two": 400
+  },
+  {
+    "id": "6f407751-c854-4ea2-9f28-a8afd28274c1",
+    "name": "Meghana Foods",
+    "type": "Desserts Bakery Sweets",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e0vvulfbahjxjz6k4uwi",
+    "cash": true,
+    "card": false,
+    "upi": true,
+    "rating": 4.7,
+    "price_for_two": 100
+  },
+  {
+    "id": "c7c21ffd-18bb-4e6f-9a91-c74a348ea7c4",
+    "name": "Leon Grill",
+    "type": "Biryani Mughlai Kebabs Indian Juices Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mis9tlspu8csdalvgx7h",
+    "cash": true,
+    "card": false,
+    "upi": false,
+    "rating": 5.0,
+    "price_for_two": 300
+  },
+  {
+    "id": "c8ad2a38-7645-4787-b5c2-4b31942f35a4",
+    "name": "Edesia by Freshmenu",
+    "type": "North Indian",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dqnzpwannyqvhx0hylcf",
+    "cash": true,
+    "card": true,
+    "upi": true,
+    "rating": 2.0,
+    "price_for_two": 100
+  },
+  {
+    "id": "a076bfe9-7c69-4580-ac1c-01e4fe210aae",
+    "name": "Aligarh House",
+    "type": "Biryani Mughlai Kebabs",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nwwkas3zauseelikzvnb",
+    "cash": false,
+    "card": false,
+    "upi": false,
+    "rating": 2.2,
+    "price_for_two": 500
+  },
+  {
+    "id": "daf7eefc-23a9-4bb4-9d0f-b14dd1d5c514",
+    "name": "Punjabi Rasoi",
+    "type": "Hotel Savitha Family Restaurant",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ou8vlworardbmd0mskcu",
+    "cash": false,
+    "card": false,
+    "upi": true,
+    "rating": 2.5,
+    "price_for_two": 300
+  },
+  {
+    "id": "c055c067-c6be-405a-9a4c-9fdc623ac505",
+    "name": "Meghana Foods",
+    "type": "Arabian Beverages Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e0vvulfbahjxjz6k4uwi",
+    "cash": true,
+    "card": false,
+    "upi": true,
+    "rating": 1.9,
+    "price_for_two": 300
+  },
+  {
+    "id": "0d7eaf1b-e945-4599-922b-6779e2d3eca6",
+    "name": "Leon Grill",
+    "type": "American",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/mis9tlspu8csdalvgx7h",
+    "cash": false,
+    "card": false,
+    "upi": true,
+    "rating": 2.8,
+    "price_for_two": 500
+  },
+  {
+    "id": "3b53ad40-4932-47d3-8c2b-d374343eb8cd",
+    "name": "Edesia by Freshmenu",
+    "type": "Desserts Bakery Sweets",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/dqnzpwannyqvhx0hylcf",
+    "cash": true,
+    "card": true,
+    "upi": true,
+    "rating": 1.9,
+    "price_for_two": 500
+  },
+  {
+    "id": "89295563-1c59-4d81-9f34-a190e8170c05",
+    "name": "Aligarh House",
+    "type": "Biryani Mughlai Kebabs Indian Juices Desserts",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/nwwkas3zauseelikzvnb",
+    "cash": false,
+    "card": true,
+    "upi": true,
+    "rating": 2.8,
+    "price_for_two": 300
+  },
+  {
+    "id": "690aa36a-4e61-4d9a-b60d-bbc5aeed578e",
+    "name": "Punjabi Rasoi",
+    "type": "North Indian",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/ou8vlworardbmd0mskcu",
+    "cash": false,
+    "card": true,
+    "upi": false,
+    "rating": 2.8,
+    "price_for_two": 300
+  },
+  {
+    "id": "b0afb469-8a79-4df2-8104-fc717da1b6e5",
+    "name": "Meghana Foods",
+    "type": "Biryani Mughlai Kebabs",
+    "image": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/e0vvulfbahjxjz6k4uwi",
+    "cash": true,
+    "card": true,
+    "upi": false,
+    "rating": 4.6,
+    "price_for_two": 500
+  }
+]

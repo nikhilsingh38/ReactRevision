@@ -1,38 +1,99 @@
-.App {
+/* .App {
   text-align: center;
+} */
+button {
+  cursor: pointer;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.restaurant-list {
+  margin: 10px;
+  padding: 20px;
+  border-radius: 20px;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.restaurant-list:hover {
+  box-shadow: 0.5px 0.25px 10px 5px rgb(148, 146, 146);
+  cursor: pointer;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.restaurant-list > img {
+  height: 400px;
+  width: 450px;
+}
+.restaurant-main-div {
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  flex-wrap: wrap;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  margin-top: 100px;
+}
+.ratingPrice {
+  display: flex;
+}
+.star {
+  padding: 10px;
+}
+
+/* .rating-div {
+} */
+
+.rating {
+  display: flex;
+  background-color: green;
+  height: 30px;
+  padding: 5px 10px;
+  border-radius: 5px;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.ratingPrice > h3 {
+  flex-grow: 1;
+
+  text-align: right;
+}
+.buttons-all {
+  display: flex;
+}
+.buttons-all > * {
+  margin: 5px;
+  outline: none;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid gray;
+  padding: 10px 15px;
+  font-size: 1em;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.add-restaurant {
+  background-color: #ff6881;
+  margin-left: auto;
+  margin-right: 40px;
+  padding: 10px 20px;
+  font-size: 2em;
+}
+button:hover {
+  box-shadow: 0.5px 0.25px 5px 2.5px #adabab;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.forms-div > form {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.forms-div {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+.forms-div > form > * {
+  margin: 5px;
+  font-size: 2em;
+  padding: 10px;
+}
+.forms-div > form > button {
+  outline: none;
+  color: black;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid gray;
+  padding: 10px 15px;
+
+  border-radius: 10px;
+  margin-top: 30px;
 }
